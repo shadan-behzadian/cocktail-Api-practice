@@ -17,8 +17,7 @@ npm run test
 
 ## Explanation of the Code :
 
-I have used functional programming approach
-functions in response to questions :
+I have used functional programming approach in response to questions :
 
 1. fechCocktails.js => is a function that recieves the letter "g" as an argument for reusability parameter is used.
 
