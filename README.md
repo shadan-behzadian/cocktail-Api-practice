@@ -16,10 +16,11 @@ npm run test
 ``` -->
 
 ## Explanation of the Code :
+I have used www.thecocktaildb.com/api/json/v1/1/search.php?f=a api from https://www.thecocktaildb.com/api.php specific to get cocktails by first letter.
 
 I have used functional programming approach in response to questions :
 
-1. fechCocktails.js => is a function that recieves the letter "g" as an argument for reusability parameter is used.
+1. fechCocktails.js => is a function that recieves the letter "g" as an argument and gets only cocktails that start with "g". for reusability parameter is used.
 
 2. cocktailNames.js => prints name of cocktails and total number of cocktails
 
